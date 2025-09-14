@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="./profile/cat_on_line.svg" width="400" alt="Cat on Line" />
+  <img src="./profile/cat_on_line.svg" width="100%" alt="Cat on Line" />
 </div>
 
 <div align="center">
