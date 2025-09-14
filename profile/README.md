@@ -69,13 +69,29 @@ I love to code but I'm not a coder, so I use AI to code for me and stuff. I enjo
   <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
+## 🚀 **Check Out Wild Kernels**
+
+<div align="center">
+
+🔥 **Explore our amazing kernel projects and join the community!** 🔥
+
+[![Wild Kernels Organization](https://img.shields.io/badge/🌟-Wild_Kernels_Organization-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WildKernels)
+[![Join Telegram](https://img.shields.io/badge/💬-Join_Our_Community-orange?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WildKernels)
+
+**Discover cutting-edge kernel modifications, custom ROMs, and innovative Android solutions!**
+
+</div>
+
+<div align="center">
+  <img src="split.gif" alt="Divider" width="100%" height="4px" />
+</div>
+
 ## 📫 **Get In Touch**
 
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-TheWildJames-blue?style=for-the-badge&logo=telegram)](https://t.me/TheWildJames)
 [![GitHub](https://img.shields.io/badge/GitHub-TheWildJames-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheWildJames)
-[![Wild Kernels](https://img.shields.io/badge/Telegram-Wild_Kernels-orange?style=for-the-badge&logo=telegram)](https://t.me/WildKernels)
 
 </div>
 
