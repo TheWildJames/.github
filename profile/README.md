@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheWildJames/TheWildJames/main/shark-header.svg" />
+  <img src="shark-header.svg" width="100%" alt="Header" />
 </div>
 
 <div align="center">
@@ -7,19 +7,19 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheWildJames/TheWildJames/main/shark-footer.svg" />
+  <img src="shark-footer.svg" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheWildJames/TheWildJames/main/coding-animation.gif" width="400" alt="Coding GIF" />
+  <img src="coding-animation.gif" width="400" alt="Coding GIF" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheWildJames/TheWildJames/main/cat_on_line.svg" alt="Cat on Line" />
+  <img src="cat_on_line.svg" width="400" alt="Cat on Line" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheWildJames/TheWildJames/main/split.gif" alt="Custom Divider" width="100%" height="4px" />
+  <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## 👋 **About Me**
@@ -36,7 +36,7 @@ I love to code but I'm not a coder, so I use AI to code for me and stuff. I enjo
 **What I do:** Building cool projects with AI assistance, contributing to open source, and sharing knowledge with the community.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheWildJames/TheWildJames/main/split.gif" alt="Divider" width="100%" height="4px" />
+  <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## 📊 **Repository Statistics & Metrics**
@@ -66,7 +66,7 @@ I love to code but I'm not a coder, so I use AI to code for me and stuff. I enjo
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheWildJames/TheWildJames/main/split.gif" alt="Divider" width="100%" height="4px" />
+  <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
 ## 🚀 **Check Out Wild Kernels**
@@ -116,7 +116,7 @@ I love to code but I'm not a coder, so I use AI to code for me and stuff. I enjo
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheWildJames/TheWildJames/main/color_wave.svg" width="1000%" alt="Color Wave" />
+  <img src="color_wave.svg" width="1000%" alt="Color Wave" />
 </div>
 
 <!--
