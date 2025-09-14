@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Meslo+Nerd+Font&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+There%21+Welcome+To+Wild+Kernels%21+%F0%9F%91%8B;Building+Kernels+And+More+For+Android%21+%F0%9F%94%A7;TheWildJames+Was+Not+The+Impostor%21+%E0%B6%9E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Meslo+Nerd+Font&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+There%21+Welcome+To+My+Profile%21+%F0%9F%91%8B;Pot+Smoker%21+Tech+Lover%21+%F0%9F%92%BB;Always+Learning+%26+Building+Cool+Stuff%21+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -22,26 +22,26 @@
   <img src="split.gif" alt="Custom Divider" width="100%" height="4px" />
 </div>
 
-## ⚠️ **DISCLAIMER - READ CAREFULLY!**
+## 👋 **About Me**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/⚠️-WARRANTY_VOID-red?style=for-the-badge&labelColor=darkred" alt="Warranty Void">
-  <img src="https://img.shields.io/badge/🚨-PROCEED_AT_YOUR_OWN_RISK-orange?style=for-the-badge&labelColor=darkorange" alt="Risk Warning">
+  <img src="https://img.shields.io/badge/💻-SOFTWARE_DEVELOPER-brightgreen?style=for-the-badge&labelColor=darkgreen" alt="Developer">
+  <img src="https://img.shields.io/badge/🌟-OPEN_SOURCE_ENTHUSIAST-blue?style=for-the-badge&labelColor=darkblue" alt="Open Source">
 </div>
 
-**Your warranty is no longer valid!**
+**Hello! I'm James** 👨‍💻
 
-I am **not responsible** for bricked devices, damaged hardware, or any issues that arise from using these kernels.
+I love to code but I'm not a coder, so I use AI to code for me and stuff. I enjoy exploring innovative solutions and contributing to open-source projects with the help of AI tools. Always eager to learn new technologies and see what AI can help me build.
 
-**Please** do thorough research and fully understand the features included before flashing!
-
-By flashing these kernels, **YOU** are choosing to make these modifications. If something goes wrong, **do not blame me**!
+**What I do:** Building cool projects with AI assistance, contributing to open source, and sharing knowledge with the community.
 
 <div align="center">
   <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
-## 📊 **Repository Statistics**
+## 📊 **Repository Statistics & Metrics**
+
+### **Featured Repositories**
 
 <p align="left">
      <a href="https://github.com/WildKernels/GKI_KernelSU_SUSFS">
@@ -52,38 +52,16 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
  </p>
 
 <div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
-</div>
 
-## 🌟 **Featured Project: Wild KSU**
+### **GitHub Analytics**
 
-<div align="center">
-  <a href="https://github.com/WildKernels/Wild_KSU">
-    <img src="https://img.shields.io/badge/🔥_Wild_KSU-Advanced_KernelSU_Fork-FF6B35?style=for-the-badge&logo=android&logoColor=white" alt="Wild KSU">
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheWildJames&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_color=02D892" alt="GitHub Stats" />
+</p>
 
-🚀 **Wild KSU** - A customization and root hiding focused fork of KernelSU Next with advanced features!
-
-✨ **Key Features**: Advanced root management, powerful module system, app profile system, and enhanced security
-
-🔧 **Easy Integration**: Automated kernel setup script available
-
-⚠️ **Status**: Currently in testing mode - use at your own risk until v1.0.0
-
-<div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
-</div>
-
-## 🔥 **Wild Kernels Collection**
-
-<div align="center">
-  
-| 🚀 **Kernel** | 📱 **Device Support** | 🔗 **Repository** | ⭐ **Status** |
-|:-------------:|:---------------------:|:-----------------:|:-------------:|
-| **GKI** | GKI Devices | [![Repo](https://img.shields.io/badge/GitHub-GKI_KernelSU_SUSFS-blue?style=flat-square&logo=github)](https://github.com/WildKernels/GKI_KernelSU_SUSFS) | ![Active](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
-| **Sultan** | Pixel Devices | [![Repo](https://img.shields.io/badge/GitHub-Sultan_KernelSU_SUSFS-blue?style=flat-square&logo=github)](https://github.com/WildKernels/Sultan_KernelSU_SUSFS) | ![Active](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
-| **OnePlus** | OnePlus Devices | [![Repo](https://img.shields.io/badge/GitHub-OnePlus_KernelSU_SUSFS-blue?style=flat-square&logo=github)](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS) | ![Active](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheWildJames&theme=github-dark-blue&background=0D1117&border=02D892&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</p>
 
 </div>
 
@@ -91,128 +69,34 @@ By flashing these kernels, **YOU** are choosing to make these modifications. If 
   <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
-## 🛠️ **Development Tools & Resources**
+## 📫 **Get In Touch**
 
 <div align="center">
-
-[![Kernel Patches](https://img.shields.io/badge/🔧_Kernel_Patches-Repository-purple?style=for-the-badge&logo=github)](https://github.com/WildKernels/kernel_patches)
-[![Build Scripts](https://img.shields.io/badge/📜_Build_Scripts-Legacy-orange?style=for-the-badge&logo=github)](https://github.com/TheWildJames/kernel_build_scripts)
-[![Kernel Flasher](https://img.shields.io/badge/⚡_Kernel_Flasher-Tool-green?style=for-the-badge&logo=github)](https://github.com/fatalcoder524/KernelFlasher)
-
-</div>
-
-<div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
-</div>
-
-## ✨ **Key Features**
-
-<div align="center">
-
-| 🔑 **Feature** | 📝 **Description** | 🎯 **Purpose** |
-|:---------------:|:------------------:|:---------------:|
-| **🔐 KernelSU** | Root solution for Android GKI devices | Grants root permission directly in kernel space |
-| **🛡️ SUSFS** | Root hiding kernel patches & userspace module | Advanced stealth capabilities for KernelSU |
-
-
-</div>
-
-
-
-<div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
-</div>
-
-## 🎯 **Specializations**
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Kernel_Development-FF6B6B?style=for-the-badge&logo=linux&logoColor=white" alt="Kernel Development">
-<img src="https://img.shields.io/badge/Android_Modding-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Android Modding">
-<img src="https://img.shields.io/badge/Root_Hidings-FF9500?style=for-the-badge&logo=incognito&logoColor=white" alt="Root Hidings">
-
-</div>
-
-<div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
-</div>
-
-## 🏆 **Credits & Acknowledgments**
-
-<div align="center">
-
-| 🔧 **Project** | 👨‍💻 **Developer** | 🔗 **Link** |
-|:---------------:|:----------------:|:-----------:|
-| **KernelSU** | tiann | [![GitHub](https://img.shields.io/badge/GitHub-tiann-blue?style=flat-square&logo=github)](https://github.com/tiann/KernelSU) |
-| **KernelSU-Next** | rifsxd | [![GitHub](https://img.shields.io/badge/GitHub-rifsxd-blue?style=flat-square&logo=github)](https://github.com/KernelSU-Next/KernelSU-Next) |
-| **Magic-KSU** | 5ec1cff | [![GitHub](https://img.shields.io/badge/GitHub-5ec1cff-blue?style=flat-square&logo=github)](https://github.com/5ec1cff/KernelSU) |
-| **SUSFS** | simonpunk | [![GitLab](https://img.shields.io/badge/GitLab-simonpunk-orange?style=flat-square&logo=gitlab)](https://gitlab.com/simonpunk/susfs4ksu.git) |
-| **SUSFS Module** | sidex15 | [![GitHub](https://img.shields.io/badge/GitHub-sidex15-blue?style=flat-square&logo=github)](https://github.com/sidex15) |
-| **Sultan Kernels** | kerneltoast | [![GitHub](https://img.shields.io/badge/GitHub-kerneltoast-blue?style=flat-square&logo=github)](https://github.com/kerneltoast) |
-
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/💖-Special_Thanks_to_Open_Source_Community-red?style=for-the-badge" alt="Open Source Love">
-</div>
-
-<div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
-</div>
-
-## **Support & Community**
-
-<div align="center">
-
-### **Get Help**
 
 [![Telegram](https://img.shields.io/badge/Telegram-TheWildJames-blue?style=for-the-badge&logo=telegram)](https://t.me/TheWildJames)
-[![Telegram Group](https://img.shields.io/badge/Telegram-Wild_Kernels_Group-blue?style=for-the-badge&logo=telegram)](https://t.me/Wild_Kernels)
+[![GitHub](https://img.shields.io/badge/GitHub-TheWildJames-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheWildJames)
+[![Wild Kernels](https://img.shields.io/badge/Telegram-Wild_Kernels-orange?style=for-the-badge&logo=telegram)](https://t.me/WildKernels)
 
 </div>
 
-💡 **Need Help?** Feel free to open an issue in any repository or reach out on Telegram!
+💬 **Let's Connect!** Feel free to reach out if you want to collaborate on projects, discuss technology, or just say hello!
+
+
 
 <div align="center">
   <img src="split.gif" alt="Divider" width="100%" height="4px" />
 </div>
 
-## 👨‍💻 **Developers**
+
+
+
+
+
+
+
 
 <div align="center">
-
-[![TheWildJames](https://img.shields.io/badge/👑_Owner-TheWildJames-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheWildJames)
-[![fatalcoder524](https://img.shields.io/badge/💻_Co--Owner-fatalcoder524-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatalcoder524)
-
-</div>
-
-<div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
-</div>
-
-## 🌟 **Special Contributors**
-
-<div align="center">
-
-| 👤 **Contributor** | 🎯 **Contribution** | 🔗 **Profile** |
-|:------------------:|:-------------------:|:---------------:|
-| **simonpunk** | Created SUSFS! | [![GitLab](https://img.shields.io/badge/GitLab-simonpunk-orange?style=flat-square&logo=gitlab)](https://gitlab.com/simonpunk/susfs4ksu.git) |
-| **sidex15** | Created module! | [![GitHub](https://img.shields.io/badge/GitHub-sidex15-blue?style=flat-square&logo=github)](https://github.com/sidex15) |
-| **Any Contributor** | Code contributions! | 🙏 Thank you for your help! |
-| **Any Donator** | Financial support! | 💝 Your donations are appreciated! |
-
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🤝-Missing_From_List?_Remind_Me!-yellow?style=for-the-badge" alt="Missing Contributors">
-</div>
-
-<div align="center">
-  <img src="split.gif" alt="Divider" width="100%" height="4px" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Meslo+Nerd+Font&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Thanks+For+Visiting+Wild+Kernels!+%F0%9F%91%8B;Happy+Flashing!+%F0%9F%9A%80;Stay+Rooted!+Stay+Hidden!+Stay+Wild!+%F0%9F%94%A5" alt="Closing Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Meslo+Nerd+Font&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Thanks+For+Visiting+My+Profile!+%F0%9F%91%8B;Happy+Coding!+%F0%9F%9A%80;Keep+Learning!+Keep+Building!+%F0%9F%94%A5" alt="Closing Message" />
 </div>
 
 <div align="center">
