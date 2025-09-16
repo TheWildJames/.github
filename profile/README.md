@@ -59,9 +59,7 @@ I love to code but I'm not a coder, so I use AI to code for me and stuff. I enjo
   <img src="https://github-readme-stats.vercel.app/api?username=TheWildJames&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_color=02D892" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheWildJames&theme=github-dark-blue&background=0D1117&border=02D892&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</p>
+
 
 </div>
 
