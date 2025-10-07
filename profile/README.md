@@ -76,8 +76,6 @@ I love to code but I'm not a coder, so I use AI to code for me and stuff. I enjo
 [![Wild Kernels Organization](https://img.shields.io/badge/🌟-Wild_Kernels_Organization-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WildKernels)
 [![Join Telegram](https://img.shields.io/badge/💬-Join_Our_Community-orange?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WildKernels)
 
-**Discover cutting-edge kernel modifications, custom ROMs, and innovative Android solutions!**
-
 </div>
 
 <div align="center">
