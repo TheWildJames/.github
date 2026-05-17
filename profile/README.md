@@ -48,7 +48,7 @@ I love to code but I'm not a coder, so I use AI to code for me and stuff. I enjo
      <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=GKI_KernelSU_SUSFS&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="GKI_KernelSU_SUSFS"></a>
      <a href="https://github.com/WildKernels/OnePlus_KernelSU_SUSFS"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=OnePlus_KernelSU_SUSFS&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="OnePlus_KernelSU_SUSFS"></a>
      <a href="https://github.com/WildKernels/Sultan_KernelSU_SUSFS"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=Sultan_KernelSU_SUSFS&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Sultan_KernelSU_SUSFS"></a>
-     <a href="https://github.com/WildKernels/Samsung_KernelSU_SUSFS"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=Sultan_KernelSU_SUSFS&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Samsung_KernelSU_SUSFS"></a>
+     <a href="https://github.com/WildKernels/Samsung_KernelSU_SUSFS"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WildKernels&repo=Samsung_KernelSU_SUSFS&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Samsung_KernelSU_SUSFS"></a>
  </p>
 
 <div align="center">
